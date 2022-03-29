@@ -1,0 +1,4 @@
+name: Obsidian Vault Analysis
+description: >
+   Perform an analysis of an Obsidian Vault.
+create_dir: TRUE
