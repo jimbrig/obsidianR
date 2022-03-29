@@ -6,11 +6,19 @@ Authors@R:
            comment = c(ORCID = "0000-0002-7489-8787"))
 Description: Analyze Obsidian Vaults.
 License: MIT + file LICENSE
+URL: https://github.com/jimbrig/obsidian
+BugReports: https://github.com/jimbrig/obsidian/issues
+Imports: 
+    fs,
+    jsonlite,
+    tibble
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
-Imports: 
-    tibble
-URL: https://github.com/jimbrig/obsidian
-BugReports: https://github.com/jimbrig/obsidian/issues
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
