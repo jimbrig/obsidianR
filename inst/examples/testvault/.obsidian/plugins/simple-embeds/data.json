@@ -1,0 +1,22 @@
+{
+  "replaceAppleMusicLinks": true,
+  "replaceApplePodcastsLinks": true,
+  "replaceAppleTVLinks": true,
+  "replaceCodepenLinks": true,
+  "replaceFlatIOLinks": true,
+  "replaceGitHubGistLinks": true,
+  "replaceInstagramLinks": true,
+  "replaceNoteflightLinks": true,
+  "replaceTwitterLinks": true,
+  "replaceYouTubeLinks": true,
+  "twitterTheme": "auto",
+  "codepenTheme": "auto",
+  "codepenDefaultTab": "html",
+  "codepenShowResult": true,
+  "codepenClickToLoad": false,
+  "codepenEditable": false,
+  "centerEmbeds": true,
+  "keepLinksInPreview": false,
+  "embedPlacement": "above",
+  "disableAutomaticEmbeds": false
+}

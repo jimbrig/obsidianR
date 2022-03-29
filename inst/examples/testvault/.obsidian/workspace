@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "64639a51516a1cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "245513a966d7b77d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b120c157b66aaa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d741f4f5c32e813a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c58f09fa4818c959",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb760f6c4a7bfe92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "962b6da36abfa12a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "40f35e4456947837",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419
+  },
+  "right": {
+    "id": "48520913e37684f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cc5e4aafc26bc84",
+        "type": "tabs",
+        "dimension": 35.4251012145749,
+        "children": [
+          {
+            "id": "e2c8e9b0134bc4dc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb1bde650328d727",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "abe7d96b41c568de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e1c4336afd51fea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "28f115f2d63d15ce",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          },
+          {
+            "id": "9224c93e4fce57d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1605e2e7562d2b84",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "04e718d82b09df24",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "40a6f14b103788cf",
+        "type": "tabs",
+        "dimension": 64.5748987854251,
+        "children": [
+          {
+            "id": "2ae2c33e29197ef6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7faa822fbf65883",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405
+  },
+  "active": "245513a966d7b77d",
+  "lastOpenFiles": [
+    "README.md",
+    "2-Areas/Lists/Actuarial Development Master Resource List.md",
+    "0-Slipbox/Windows Themes.md",
+    "0-Slipbox/Create Custom Bootable Windows Media from Command Line.md",
+    "2-Areas/Code/Windows/Windows CMD/CMD - Export Edge Custom Search Engines.md",
+    "3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/dbhub.io.md",
+    "3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DB Browser for SQLite - sqlitebrowser.md",
+    "3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-cleaner.md",
+    "3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/INSTChoco.md",
+    "3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-archiver.md"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Actuarial Development Master Resource List",
+      "path": "2-Areas/Lists/Actuarial Development Master Resource List.md"
+    },
+    {
+      "basename": "Windows Themes",
+      "path": "0-Slipbox/Windows Themes.md"
+    },
+    {
+      "basename": "Create Custom Bootable Windows Media from Command Line",
+      "path": "0-Slipbox/Create Custom Bootable Windows Media from Command Line.md"
+    },
+    {
+      "basename": "CMD - Export Edge Custom Search Engines",
+      "path": "2-Areas/Code/Windows/Windows CMD/CMD - Export Edge Custom Search Engines.md"
+    },
+    {
+      "basename": "dbhub.io",
+      "path": "3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/dbhub.io.md"
+    },
+    {
+      "basename": "DB Browser for SQLite - sqlitebrowser",
+      "path": "3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DB Browser for SQLite - sqlitebrowser.md"
+    },
+    {
+      "basename": "choco-cleaner",
+      "path": "3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-cleaner.md"
+    },
+    {
+      "basename": "INSTChoco",
+      "path": "3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/INSTChoco.md"
+    },
+    {
+      "basename": "choco-archiver",
+      "path": "3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-archiver.md"
+    },
+    {
+      "basename": "choco-package-list-backup",
+      "path": "3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/choco-package-list-backup.md"
+    },
+    {
+      "basename": "Chocolatey",
+      "path": "3-Resources/Tools/Developer Tools/Package Managers/Chocolatey/Chocolatey.md"
+    },
+    {
+      "basename": "trellocli",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/trellocli.md"
+    },
+    {
+      "basename": "nostalgic - Bash Script to Manage Dotfiles",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/nostalgic - Bash Script to Manage Dotfiles.md"
+    },
+    {
+      "basename": "sncli - Simple Note CLI",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/sncli - Simple Note CLI.md"
+    },
+    {
+      "basename": "Pyrseas",
+      "path": "3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Pyrseas.md"
+    },
+    {
+      "basename": "pgAudit",
+      "path": "3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/pgAudit.md"
+    },
+    {
+      "basename": "franchise",
+      "path": "3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/franchise.md"
+    },
+    {
+      "basename": "markdown-notes-tree",
+      "path": "3-Resources/Tools/Developer Tools/Documentation/markdown-notes-tree.md"
+    },
+    {
+      "basename": "wsh",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/wsh.md"
+    },
+    {
+      "basename": "Great Expectations",
+      "path": "3-Resources/Tools/Developer Tools/Data Stack/Miscellaneous/Great Expectations.md"
+    },
+    {
+      "basename": "Leapp",
+      "path": "3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/Leapp.md"
+    },
+    {
+      "basename": "ffsend",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/ffsend.md"
+    },
+    {
+      "basename": "localstack",
+      "path": "3-Resources/Tools/Developer Tools/Cloud Services/AWS/localstack.md"
+    },
+    {
+      "basename": "Serverless",
+      "path": "3-Resources/Tools/Developer Tools/Cloud Services/MultiCloud/Serverless.md"
+    },
+    {
+      "basename": "repo-manager",
+      "path": "3-Resources/Tools/Developer Tools/Version Control/repo-manager.md"
+    },
+    {
+      "basename": "DBeaver",
+      "path": "3-Resources/Tools/Developer Tools/Data Stack/Database GUI/DBeaver.md"
+    },
+    {
+      "basename": "gitui",
+      "path": "3-Resources/Tools/Developer Tools/Version Control/gitui.md"
+    },
+    {
+      "basename": "Nativefier",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/Nativefier.md"
+    },
+    {
+      "basename": "SophiScript and SophiApp",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/SophiScript and SophiApp.md"
+    },
+    {
+      "basename": "to-ico-cli",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/to-ico-cli.md"
+    },
+    {
+      "basename": "DriveStoreExplorer",
+      "path": "3-Resources/Tools/Utility/DriveStoreExplorer.md"
+    },
+    {
+      "basename": "git-sweep",
+      "path": "3-Resources/Tools/Developer Tools/Version Control/git-sweep.md"
+    },
+    {
+      "basename": "Winget",
+      "path": "3-Resources/Tools/Developer Tools/Package Managers/Winget.md"
+    },
+    {
+      "basename": "Scoop",
+      "path": "3-Resources/Tools/Developer Tools/Package Managers/Scoop.md"
+    },
+    {
+      "basename": "Youtube-DL",
+      "path": "3-Resources/Tools/Developer Tools/Command Line Utilities/Youtube-DL.md"
+    },
+    {
+      "basename": "TaskBarX",
+      "path": "3-Resources/Tools/Utility/TaskBarX.md"
+    },
+    {
+      "basename": "File UWP",
+      "path": "3-Resources/Tools/Utility/File UWP.md"
+    },
+    {
+      "basename": "NotePads",
+      "path": "3-Resources/Tools/Utility/NotePads.md"
+    },
+    {
+      "basename": "BloatBox",
+      "path": "3-Resources/Tools/Utility/BloatBox.md"
+    },
+    {
+      "basename": "CleanMgrPlus",
+      "path": "3-Resources/Tools/Utility/CleanMgrPlus.md"
+    },
+    {
+      "basename": "CloneApp",
+      "path": "3-Resources/Tools/Utility/CloneApp.md"
+    },
+    {
+      "basename": "ThisIsWin11",
+      "path": "3-Resources/Tools/Utility/ThisIsWin11.md"
+    },
+    {
+      "basename": "HandyWinGet",
+      "path": "3-Resources/Tools/Utility/HandyWinGet.md"
+    },
+    {
+      "basename": "ViveTool",
+      "path": "3-Resources/Tools/Utility/ViveTool.md"
+    },
+    {
+      "basename": "Mach2",
+      "path": "3-Resources/Tools/Utility/Mach2.md"
+    },
+    {
+      "basename": "Run - Check for Windows Store App Updates",
+      "path": "2-Areas/Code/Windows/Run/Run - Check for Windows Store App Updates.md"
+    },
+    {
+      "basename": "Run - Cleanup",
+      "path": "2-Areas/Code/Windows/Run/Run - Cleanup.md"
+    },
+    {
+      "basename": "WSL - Install WSLU",
+      "path": "2-Areas/Code/Linux/WSL/WSL - Install WSLU.md"
+    },
+    {
+      "basename": "_README",
+      "path": "2-Areas/Code/_README.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
